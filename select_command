@@ -1,0 +1,3 @@
+command to select all records in a table
+
+select * from table_name
